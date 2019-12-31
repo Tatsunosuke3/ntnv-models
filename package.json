@@ -11,6 +11,9 @@
   "keywords": [],
   "author": "Tatsunosuke3",
   "license": "MIT",
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "typescript": "^3.7.4"
   }
