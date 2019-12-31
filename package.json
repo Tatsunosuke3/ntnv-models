@@ -1,0 +1,17 @@
+{
+  "name": "ntnv-models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "types": "./dist/types/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tatsunosuke3",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}
